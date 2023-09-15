@@ -1,3 +1,6 @@
+//Script created by Hailey Enfield
+//Please leave this commenting intact<3
+
 pingHeartbeatMon()
 {
     integer simPop = llGetRegionAgentCount();
