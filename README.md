@@ -1,4 +1,5 @@
 # LSL_Heartbeat-Monitor
+The script is a very basic heartbeat and simple statistic-sending implementation that can be used on services like Cronitor.io
   
 ## Actively Monitored Regions:
   
