@@ -1,7 +1,7 @@
 //Script created by Hailey Enfield
 //Please leave this comment intact<3
 
-string heartbeatLink = "LINK";
+string heartbeatLink = "LINK-GOES-HERE.COM/stuff"; //Heartbeat Link
 string scriptName = "Hails-Heartbeat-Mon";
 
 pingHeartbeatMon()
