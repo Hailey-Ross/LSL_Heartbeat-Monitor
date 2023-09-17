@@ -2,7 +2,7 @@
 //Please leave this comment intact<3
 
 string heartbeatLink = "LINK-GOES-HERE.COM/stuff"; //Heartbeat Link
-string scriptName = "Hails-Heartbeat-Mon";
+string scriptName = "Hails.Heartbeat-Mon";
 
 pingHeartbeatMon()
 {
