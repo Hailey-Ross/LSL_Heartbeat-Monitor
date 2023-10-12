@@ -1,5 +1,5 @@
 # LSL Heartbeat-Monitor
-This script is written in Linden Scripting Language (LSL) is a very basic heartbeat and simple statistic-sending implementation that can be used on services like <a href="https://cronitor.io">Cronitor.io</a> and <a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a> for monitoring Uptime Statistics and Status for <a href="https://secondlife.com">Second Life</a> Regions
+This is a Linden Scripting Language (LSL) that performs very basic heartbeat and simple statistic-sending features that can be used ffor services like <a href="https://cronitor.io">Cronitor.io</a> and <a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a> for monitoring Uptime Statistics and Status for <a href="https://secondlife.com">Second Life</a> Regions
 
   
 ## Monitored Regions:
